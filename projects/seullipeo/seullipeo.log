@@ -1,0 +1,247 @@
+[INFO] 2025-07-28 18:01:15 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 18:01:15 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 18:01:15 — [*] Lancement du module SUID
+[INFO] 2025-07-28 18:01:15 — Recherche des fichiers SUID...
+[ERROR] 2025-07-28 18:01:18 — Erreur lors du scan SUID : Command '['find', '/', '-perm', '-4000', '-type', 'f']' returned non-zero exit status 1.
+[INFO] 2025-07-28 18:03:51 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 18:03:51 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 18:03:51 — [*] Lancement du module SUID
+[INFO] 2025-07-28 18:03:51 — Recherche des fichiers SUID...
+[ERROR] 2025-07-28 18:03:52 — Erreur lors du scan SUID : 'CompletedProcess' object has no attribute 'strip'
+[INFO] 2025-07-28 19:21:35 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:21:35 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 19:21:35 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:21:35 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:21:35 — [*] Scan des fichiers SUID...
+[ERROR] 2025-07-28 19:21:53 — Erreur lors du scan SUID : Command '['find', '/', '-perm', '-4000', '-type', 'f']' returned non-zero exit status 1.
+[INFO] 2025-07-28 19:23:40 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:23:40 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 19:23:40 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:23:40 — Recherche des fichiers SUID...
+[ERROR] 2025-07-28 19:23:56 — Erreur lors du scan SUID : 'CompletedProcess' object has no attribute 'strip'
+[INFO] 2025-07-28 19:24:27 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:24:27 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 19:24:27 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:24:27 — Recherche des fichiers SUID...
+[ERROR] 2025-07-28 19:24:40 — Erreur lors du scan SUID : 'CompletedProcess' object has no attribute 'strip'
+[INFO] 2025-07-28 19:24:47 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:24:47 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 19:24:47 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:24:47 — Recherche des fichiers SUID...
+[ERROR] 2025-07-28 19:25:01 — Erreur lors du scan SUID : 'CompletedProcess' object has no attribute 'strip'
+[INFO] 2025-07-28 19:25:03 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:25:03 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 19:25:03 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:25:03 — [*] Lancement du module SUID
+[DEBUG] 2025-07-28 19:25:16 — [-] /opt/brave.com/brave/chrome-sandbox — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /opt/VBoxGuestAdditions-7.1.12/bin/VBoxDRMClient — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/chfn — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/chsh — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/fusermount3 — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/gpasswd — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/mount — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/newgidmap — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/newgrp — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/newuidmap — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/ntfs-3g — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/passwd — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/pkexec — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/su — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/sudo — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/umount — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/bin/vmware-user-suid-wrapper — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/lib/chromium/chrome-sandbox — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/lib/dbus-1.0/dbus-daemon-launch-helper — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/lib/openssh/ssh-keysign — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/lib/polkit-1/polkit-agent-helper-1 — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/lib/xorg/Xorg.wrap — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/sbin/exim4 — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/sbin/pppd — pas dans GTFOBins
+[DEBUG] 2025-07-28 19:25:16 — [-] /usr/share/codium/chrome-sandbox — pas dans GTFOBins
+[INFO] 2025-07-28 19:32:55 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:32:55 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 19:32:55 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:32:55 — [*] Lancement du module SUID
+[ERROR] 2025-07-28 19:32:55 — Erreur lors du scan SUID : stdout and stderr arguments may not be used with capture_output.
+[INFO] 2025-07-28 19:34:10 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:34:10 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 19:34:10 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:34:10 — [*] Lancement du module SUID
+[DEBUG] 2025-07-28 19:34:28 — [-] /opt/brave.com/brave/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /opt/VBoxGuestAdditions-7.1.12/bin/VBoxDRMClient — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/chfn — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/chsh — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/fusermount3 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/gpasswd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/mount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/newgidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/newgrp — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/newuidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/ntfs-3g — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/passwd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/pkexec — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/su — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/sudo — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/umount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/bin/vmware-user-suid-wrapper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/lib/chromium/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/lib/dbus-1.0/dbus-daemon-launch-helper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/lib/openssh/ssh-keysign — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/lib/polkit-1/polkit-agent-helper-1 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/lib/xorg/Xorg.wrap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/sbin/exim4 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/sbin/pppd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:34:28 — [-] /usr/share/codium/chrome-sandbox — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:39:29 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:39:29 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 19:39:29 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:39:29 — [*] Lancement du module SUID
+[DEBUG] 2025-07-28 19:39:43 — [-] /opt/brave.com/brave/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /opt/VBoxGuestAdditions-7.1.12/bin/VBoxDRMClient — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/chfn — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/chsh — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/fusermount3 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/gpasswd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/mount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/newgidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/newgrp — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/newuidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/ntfs-3g — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/passwd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/pkexec — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/su — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/sudo — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/umount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/bin/vmware-user-suid-wrapper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/lib/chromium/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/lib/dbus-1.0/dbus-daemon-launch-helper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/lib/openssh/ssh-keysign — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/lib/polkit-1/polkit-agent-helper-1 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/lib/xorg/Xorg.wrap — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:39:43 — [+] /usr/local/bin/test — fait ca echo huoshi > /tmp/test
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/sbin/exim4 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/sbin/pppd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:39:43 — [-] /usr/share/codium/chrome-sandbox — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:41:29 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:41:29 — Arguments détectés : ['--suid']
+[INFO] 2025-07-28 19:41:29 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:41:29 — [*] Lancement du module SUID
+[DEBUG] 2025-07-28 19:41:42 — [-] /opt/brave.com/brave/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /opt/VBoxGuestAdditions-7.1.12/bin/VBoxDRMClient — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/chfn — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/chsh — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/fusermount3 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/gpasswd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/mount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/newgidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/newgrp — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/newuidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/ntfs-3g — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/passwd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/pkexec — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/su — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/sudo — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/umount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/bin/vmware-user-suid-wrapper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/lib/chromium/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/lib/dbus-1.0/dbus-daemon-launch-helper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/lib/openssh/ssh-keysign — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/lib/polkit-1/polkit-agent-helper-1 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/lib/xorg/Xorg.wrap — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:41:42 — [+] /usr/local/bin/test — Exécute le binaire test (SUID)
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/sbin/exim4 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/sbin/pppd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:41:42 — [-] /usr/share/codium/chrome-sandbox — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:44:21 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:44:21 — Arguments détectés : ['--suid', '--exec']
+[INFO] 2025-07-28 19:45:48 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:45:48 — Arguments détectés : ['--suid', '--exec']
+[INFO] 2025-07-28 19:45:48 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:45:48 — [*] Lancement du module SUID
+[DEBUG] 2025-07-28 19:46:06 — [-] /opt/brave.com/brave/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /opt/VBoxGuestAdditions-7.1.12/bin/VBoxDRMClient — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/chfn — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/chsh — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/fusermount3 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/gpasswd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/mount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/newgidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/newgrp — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/newuidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/ntfs-3g — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/passwd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/pkexec — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/su — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/sudo — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/umount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/bin/vmware-user-suid-wrapper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/lib/chromium/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/lib/dbus-1.0/dbus-daemon-launch-helper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/lib/openssh/ssh-keysign — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/lib/polkit-1/polkit-agent-helper-1 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/lib/xorg/Xorg.wrap — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:46:06 — [+] /usr/local/bin/test — Exécute le binaire test (SUID)
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/sbin/exim4 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/sbin/pppd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:06 — [-] /usr/share/codium/chrome-sandbox — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:46:12 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:46:12 — Arguments détectés : ['--suid', '--exec']
+[INFO] 2025-07-28 19:46:12 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:46:12 — [*] Lancement du module SUID
+[DEBUG] 2025-07-28 19:46:28 — [-] /opt/brave.com/brave/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /opt/VBoxGuestAdditions-7.1.12/bin/VBoxDRMClient — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/chfn — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/chsh — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/fusermount3 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/gpasswd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/mount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/newgidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/newgrp — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/newuidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/ntfs-3g — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/passwd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/pkexec — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/su — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/sudo — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/umount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/bin/vmware-user-suid-wrapper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/lib/chromium/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/lib/dbus-1.0/dbus-daemon-launch-helper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/lib/openssh/ssh-keysign — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/lib/polkit-1/polkit-agent-helper-1 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/lib/xorg/Xorg.wrap — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:46:28 — [+] /usr/local/bin/test — Exécute le binaire test (SUID)
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/sbin/exim4 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/sbin/pppd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:46:28 — [-] /usr/share/codium/chrome-sandbox — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:47:46 — Seullipeo framework initialisé.
+[DEBUG] 2025-07-28 19:47:46 — Arguments détectés : ['--suid', '--exec']
+[INFO] 2025-07-28 19:47:46 — [*] Lancement du module SUID
+[INFO] 2025-07-28 19:47:46 — [*] Lancement du module SUID
+[DEBUG] 2025-07-28 19:48:04 — [-] /opt/brave.com/brave/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /opt/VBoxGuestAdditions-7.1.12/bin/VBoxDRMClient — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/chfn — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/chsh — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/fusermount3 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/gpasswd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/mount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/newgidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/newgrp — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/newuidmap — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/ntfs-3g — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/passwd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/pkexec — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/su — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/sudo — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/umount — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/bin/vmware-user-suid-wrapper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/lib/chromium/chrome-sandbox — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/lib/dbus-1.0/dbus-daemon-launch-helper — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/lib/openssh/ssh-keysign — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/lib/polkit-1/polkit-agent-helper-1 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/lib/xorg/Xorg.wrap — non référencé dans GTFOBins
+[INFO] 2025-07-28 19:48:04 — [+] /usr/local/bin/test — Exécute le binaire test (SUID)
+[INFO] 2025-07-28 19:48:04 — [*] Tentative d'exécution : /usr/local/bin/test
+[DEBUG] 2025-07-28 19:48:04 — [-] /usr/sbin/exim4 — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:05 — [-] /usr/sbin/pppd — non référencé dans GTFOBins
+[DEBUG] 2025-07-28 19:48:05 — [-] /usr/share/codium/chrome-sandbox — non référencé dans GTFOBins
