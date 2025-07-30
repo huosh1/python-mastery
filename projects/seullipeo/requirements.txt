@@ -1,0 +1,30 @@
+# Dépendances pour Seullipeo (슬리퍼)
+# Framework d'escalade de privilèges Linux
+
+# Pas de dépendances externes requises !
+# Seullipeo utilise uniquement les modules intégrés à Python 3.6+
+
+# Modules Python utilisés (intégrés) :
+# - os, sys, subprocess      (système)
+# - pwd, grp, stat          (utilisateurs et permissions)
+# - pathlib, shutil         (gestion fichiers)
+# - logging                 (journalisation)
+# - datetime, time          (horodatage)
+# - platform                (informations système)
+# - json                    (sérialisation)
+# - argparse, cmd           (interfaces CLI/REPL)
+# - threading               (pour futures extensions)
+# - crypt                   (hachage mots de passe)
+# - importlib, inspect      (chargement dynamique modules)
+
+# Optionnel pour développement :
+# pytest>=6.0.0            # Tests unitaires
+# black>=21.0.0             # Formatage code
+# pylint>=2.0.0             # Analyse statique
+# coverage>=5.0.0           # Couverture de tests
+
+# Notes :
+# - Aucune installation pip requise pour l'utilisation de base
+# - Framework conçu pour fonctionner sur tout système Linux/Unix
+# - Compatible Python 3.6 à 3.11+
+# - Installation légère et portable

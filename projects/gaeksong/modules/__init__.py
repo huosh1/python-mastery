@@ -6,7 +6,7 @@ Outil de reconnaissance active et passive
 """
 
 __version__ = "1.0.0"
-__author__ = "Votre Nom"
+__author__ = "huoshi"
 __description__ = "Outil de reconnaissance active et passive pour la cybersécurité"
 
 # Import des modules principaux

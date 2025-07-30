@@ -26,12 +26,12 @@ def read_requirements():
 setup(
     name='gaeksong',
     version='1.0.0',
-    author='Votre Nom',
-    author_email='votre.email@example.com',
+    author='huoshi',
+    author_email='huoshi1@proton.me',
     description='Outil de reconnaissance active et passive pour la cybersécurité',
     long_description=read_readme(),
     long_description_content_type='text/markdown',
-    url='https://github.com/votre-username/gaeksong',
+    url='https://github.com/huosh1/gaeksong',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 4 - Beta',
@@ -62,8 +62,8 @@ setup(
     },
     keywords='cybersecurity, reconnaissance, penetration-testing, network-security, osint',
     project_urls={
-        'Bug Reports': 'https://github.com/votre-username/gaeksong/issues',
-        'Source': 'https://github.com/votre-username/gaeksong',
-        'Documentation': 'https://github.com/votre-username/gaeksong/wiki',
+        'Bug Reports': 'https://github.com/huosh1/gaeksong/issues',
+        'Source': 'https://github.com/huosh1/gaeksong',
+        'Documentation': 'https://github.com/huosh1/gaeksong/wiki',
     },
 )

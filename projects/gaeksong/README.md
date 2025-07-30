@@ -39,23 +39,7 @@ gaeksong/
 └── README.md              # Documentation
 ```
 
-## Installation
 
-1. Cloner le repository
-```bash
-git clone https://github.com/votre-username/gaeksong.git
-cd gaeksong
-```
-
-2. Installer les dépendances
-```bash
-pip install -r requirements.txt
-```
-
-3. Rendre le script exécutable (Linux/Mac)
-```bash
-chmod +x gaeksong.py
-```
 
 ## Utilisation
 
