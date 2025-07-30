@@ -1,0 +1,19 @@
+# Caches et fichiers temporaires
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# VS Code config
+.vscode/
+
+# Environnements virtuels
+env/
+venv/
+
+# Fichiers spécifiques
+.DS_Store
+*.swp
+
+# Fichiers de résultats
+results/
