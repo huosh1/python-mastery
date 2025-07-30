@@ -1,14 +1,36 @@
-# Dossiers système
-.vscode/
-__pycache__/
-.env/
+# Environnement virtuel
 venv/
-node_modules/
-.cache/
-*.log
-*.pyc
-.DS_Store
+.env/
 
-# Résultats et fichiers inutiles
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Résultats
 results/
+logs/
+*.log
+*.json
+*.html
+
+# Fichiers temporaires
 *.swp
+*.bak
+*~
+
+# Tests / couverture
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.code-workspace

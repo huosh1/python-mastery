@@ -1,0 +1,25 @@
+# Dépendances pour Gaeksong
+# Outil de reconnaissance active et passive
+
+# Pour les requêtes WHOIS
+python-whois==0.8.0
+
+# Pour les requêtes DNS
+dnspython==2.4.2
+
+# Pour les requêtes HTTP (optionnel)
+requests==2.31.0
+
+# Pour la validation d'IP et de plages réseau
+ipaddress
+
+# Modules intégrés à Python (pas besoin d'installation)
+# - socket (pour les connexions réseau)
+# - threading (pour le multi-threading)
+# - subprocess (pour les commandes système)
+# - json (pour l'export JSON)
+# - argparse (pour les arguments CLI)
+# - datetime (pour les timestamps)
+# - logging (pour les logs)
+# - re (pour les regex)
+# - os (pour les opérations fichiers)
