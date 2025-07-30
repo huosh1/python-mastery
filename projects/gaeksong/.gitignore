@@ -1,0 +1,14 @@
+# Dossiers système
+.vscode/
+__pycache__/
+.env/
+venv/
+node_modules/
+.cache/
+*.log
+*.pyc
+.DS_Store
+
+# Résultats et fichiers inutiles
+results/
+*.swp
