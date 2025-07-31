@@ -1,0 +1,10 @@
+# Core dependencies
+prompt-toolkit>=3.0.0
+watchdog>=2.1.0
+colorama>=0.4.4  # Pour le support des couleurs sur Windows
+
+# Optional dependencies for enhanced features
+# Uncomment if needed:
+# markdown2>=2.4.0  # Pour l'export HTML
+# weasyprint>=52.0  # Pour l'export PDF
+# pygments>=2.10.0  # Pour la coloration syntaxique avancée
